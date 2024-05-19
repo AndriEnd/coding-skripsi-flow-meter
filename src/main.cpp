@@ -24,8 +24,8 @@ const char *WIFI_PASSWORD = "mifi1234";
 
 
 //con telegram
-String token = "5002219418:AAGy39fLNuvLol2iEFjEEFcO4ksCnu18Kgc";
-const int id = 1217879404;
+String token = "********************";
+const int id = 12;
 int botRequestDelay = 1700;
 unsigned long lastTimeBotRan;
 
